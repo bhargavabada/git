@@ -1,0 +1,21 @@
+ defaultFormatDecimals: 2
+ currecyPairSeparator: 
+
+# Currency List
+ currencyList:
+   - AUD
+   - EUR
+   - USD
+   
+# Currency Decimal formates
+ currencyFormatedDecimals:
+    AUD: 2
+    USD: 2
+    EUR: 0
+    
+
+# List of Currency Pairs and values
+ listofCurrencyPairs:
+    AUDUSD: 0.8371
+    EURUSD: 1.2315
+    
